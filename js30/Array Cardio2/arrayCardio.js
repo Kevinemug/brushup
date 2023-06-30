@@ -51,4 +51,4 @@ const people = [
     ...comments.slice(0, index),
     ...comments.slice(index + 1)
   ];
-
+console.log(newComments);
